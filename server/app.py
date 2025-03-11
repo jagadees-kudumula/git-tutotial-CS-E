@@ -8,4 +8,5 @@ def hello_world():
 
 if __name__ == '__main__':
     print("Bug fixed")
+    print("Bug fixed2")
     app.run(debug=True)
